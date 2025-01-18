@@ -1,0 +1,4 @@
+Run the notico-1.0.0 Setup.exe to install
+
+The application should then launch after installation, and a shortcut will be made on the desktop
+
